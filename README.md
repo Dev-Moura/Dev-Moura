@@ -12,7 +12,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Moura&layout=compact&langs_count=7&theme=nord"/>
 </div>
   
-### Tecnologias que uso
+### 📚 Tecnologias que uso
 
 <div style="display: inline_blook><br/>
   
