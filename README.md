@@ -13,7 +13,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-Moura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Moura&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Moura&radius=16&theme=nord&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o%20de%20%20Michael%20" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Moura&radius=16&theme=nord&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o%20de%20%20Michael%20" height="248" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -27,7 +27,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
@@ -81,6 +81,7 @@
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)" height="40" alt="Chatgpt logo" />
 </div>
 
 ###
