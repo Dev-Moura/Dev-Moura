@@ -94,7 +94,7 @@
   <a href="https://www.linkedin.com/in/michael-de-souza/" taget="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="Linkedin logo" />
   <a/>
-    <a href="michael.moura72@hotmail.com" taget="_blank">
+    <a href="malito:michael.moura72@hotmail.com" taget="_blank">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="40" alt="outlook logo" />
   <a/>
     
