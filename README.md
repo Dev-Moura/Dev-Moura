@@ -87,7 +87,7 @@
 
 ###
 
-<h2 align="left">Contatos</h2>
+<h1 align="left">Contatos</h1>
 
 ###
 
