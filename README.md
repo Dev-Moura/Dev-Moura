@@ -58,7 +58,7 @@
 
 ###
 
-<h2 align="left">IDE</h2>
+<h2 align="left">Ambientes de desenvolvimento</h2>
 
 ###
 
