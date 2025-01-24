@@ -1,13 +1,37 @@
 <h1 align="left">Olá eu sou Michael 🖐</h1>
 
-###
+### Sobre mim  
+Minha paixão por tecnologia começou ainda na infância, quando eu ficava fascinado por computadores, jogos e a ideia de entender como tudo funcionava por trás das telas. Esse interesse inicial evoluiu para uma jornada de aprendizado e prática, transformando a curiosidade de criança em uma vocação para criar soluções através da programação.  
 
-<h2 align="left">Sobre mim</h2>
+Hoje, como desenvolvedor em formação, encontrei na linguagem Java a minha maior afinidade. Admiro sua robustez e versatilidade, que me permitem trabalhar em projetos complexos e criar soluções eficientes para problemas do mundo real.  
 
-###
+Além disso, meu amor por jogos me ensinou o valor da estratégia, do pensamento lógico e do trabalho em equipe – qualidades que aplico diretamente no desenvolvimento de software e na resolução de problemas técnicos.  
 
-<p align="left">👨‍🎓 Cursando Engenharia de Software pela Descomplica Faculdade Digital, visando entrar na área como desenvolvedor back-end e futuramente atuando como Desenvolvedor full-stack</p>
+Meu objetivo é continuar aprendendo, me especializando e contribuindo com soluções inovadoras que façam a diferença, enquanto construo uma carreira sólida no desenvolvimento back-end.  
 
+### Formação  
+- **Cursando Engenharia de Software** – *Descomplica Faculdade Digital*  
+- **Formação Back-End Júnior** – *ONE (Oracle Next Education) pela Alura*  
+- **Alumni Oracle Next Education** (em andamento): Formação em SQL com MySQL Server Oracle, Oracle Cloud Infrastructure e IA Generativa  
+
+### Habilidades Técnicas  
+- **Lógica de Programação:** Estruturas de dados, algoritmos, orientação a objetos  
+- **Banco de Dados:** SQL, Oracle, MongoDB (NoSQL)  
+- **Testes:** Unitários, de integração e funcionais  
+- **Versionamento:** Git & GitHub  
+
+### Tecnologias  
+- **Front-End:** HTML5, CSS3, JavaScript  
+- **Back-End:** Java, Spring Boot, Node.js  
+
+### Soft Skills  
+- **Comunicação:** Escrita, verbal e apresentações claras e objetivas  
+- **Resolução de Problemas:** Análise crítica, criatividade e pensamento lógico  
+- **Aprendizagem Contínua:** Capacidade de absorver novas tecnologias rapidamente e se adaptar às mudanças  
+
+### Idiomas  
+- **Inglês:** Intermediário para leitura e escrita  
+- **Português:** Nativo  
 ###
 
 <div align="left">
