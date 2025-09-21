@@ -19,8 +19,8 @@ muito para minha futura equipe de trabalho.
 - **Versionamento:** Git & GitHub  
 
 ### Tecnologias  
-- **Front-End:** HTML5, CSS3, JavaScript  
-- **Back-End:** Java, Spring Boot, Node.js  
+- **Front-End:** HTML5, CSS3, JavaScript, Reactjs, Dart/Flutter
+- **Back-End:** Java, Spring Boot, Node.js, express  
 
 ### Soft Skills  
 - **Comunicação:** Escrita, verbal e apresentações claras e objetivas  
