@@ -1,13 +1,11 @@
 <h1 align="left">Olá eu sou Michael 🖐</h1>
 
 ### Sobre mim  
-Minha paixão por tecnologia começou ainda na infância, quando eu ficava fascinado por computadores, jogos e a ideia de entender como tudo funcionava por trás das telas. Esse interesse inicial evoluiu para uma jornada de aprendizado e prática, transformando a curiosidade de criança em uma vocação para criar soluções através da programação.  
-
-Hoje, como desenvolvedor em formação, encontrei na linguagem Java a minha maior afinidade. Admiro sua robustez e versatilidade, que me permitem trabalhar em projetos complexos e criar soluções eficientes para problemas do mundo real.  
-
-Além disso, meu amor por jogos me ensinou o valor da estratégia, do pensamento lógico e do trabalho em equipe – qualidades que aplico diretamente no desenvolvimento de software e na resolução de problemas técnicos.  
-
-Meu objetivo é continuar aprendendo, me especializando e contribuindo com soluções inovadoras que façam a diferença, enquanto construo uma carreira sólida no desenvolvimento back-end.  
+Nascido e criado no Rio de Janeiro (RJ - Brasil). Apaixonado por tecnologia e novas
+experiências. Sou um aprendiz rápido que aprende na prática e muito esforçado e proativo.
+Tenho uma forte dedicação ao trabalho e ideias criativas para soluções inovadoras. 
+Como estudante estou sempre buscando conhecimentos e me especializando, assim, consigo agregar
+muito para minha futura equipe de trabalho. 
 
 ### Formação  
 - **Cursando Engenharia de Software** – *Descomplica Faculdade Digital*  
